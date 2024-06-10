@@ -25,14 +25,27 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.springframework.session</groupId>
+			<artifactId>spring-session-core</artifactId>
+		</dependency>
+
 
 
 <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
-    <version>42.2.24</version> <!-- Adjust version if needed -->
+    <version>42.2.24</version><!--$NO-MVN-MAN-VER$--> <!-- Adjust version if needed -->
 </dependency>
 
+
+<!--  <dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>rumtime</version> 
+</dependency> -->
 
 
 		<dependency>
