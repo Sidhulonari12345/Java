@@ -28,19 +28,19 @@
 		
 
 
-
+<!-- 
 <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
     <version>42.2.24</version><!--$NO-MVN-MAN-VER$--> <!-- Adjust version if needed -->
 </dependency>
+ -->
 
-
-<!--  <dependency>
+ <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
     <version>rumtime</version> 
-</dependency> -->
+</dependency>
 
 
 		<dependency>
